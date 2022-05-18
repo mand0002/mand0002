@@ -68,8 +68,6 @@ I'd like to get in touch with the following topics:
 
 ## - 📫 How to reach me
 
-You can e-mail me directly, get in touch through the account(s) below!
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mand0002)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/heatherkossila/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mand0002@hotmail.com)
