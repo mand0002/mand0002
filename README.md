@@ -41,7 +41,7 @@ I'm a building information specialist who is interested in projects that will he
 ## - 🧠 I Know or am learning:
 ### Programming Languages:
 
-<img src=https://www.cadtutor.net/forum/uploads/monthly_2009_07/LISPicon.png.1d10b9fc239356fe3d6b327d0c7bcf5c.png style="margin:5px", "size:.5" /><img src="http://img.shields.io/badge/-VBA-black?style=for-the-badge&logo=vba&logoColor=blue" style="margin:5px" /><img src=https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png style="margin:5px" />
+<img width="50%" src=https://www.cadtutor.net/forum/uploads/monthly_2009_07/LISPicon.png.1d10b9fc239356fe3d6b327d0c7bcf5c.png style="margin:5px" /><img src="http://img.shields.io/badge/-VBA-black?style=for-the-badge&logo=vba&logoColor=blue" style="margin:5px" /><img src=https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png style="margin:5px" />
 
 ### APIs:
 
