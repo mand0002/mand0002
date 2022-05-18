@@ -26,13 +26,13 @@ I'm a building information specialist who is interested in projects that will he
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/aeris170/RISK-Digital-Cut">
-			<img src="https://repository-images.githubusercontent.com/169880359/d106c280-9780-11e9-983c-0b51e49af958" />
+		<a href="https://github.com/mand0002/hashDemoBlockies">
+			<img src="https://github.com/mand0002/hashDemoBlockies/blob/master/blockies.png" />
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/chroma-works/NeoDoa">
-			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
+		<a href="https://github.com/mand0002/hashDemoBlockies">
+			<img src="https://github.com/mand0002/hashDemoBlockies/blob/master/blockies.png" />
 		</a>
 	</td>
   </tr>
@@ -41,7 +41,7 @@ I'm a building information specialist who is interested in projects that will he
 ## - 🧠 I Know or am learning:
 ### Programming Languages:
 
-<img src="https://img.shields.io/badge/-Autolisp-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /><img src="http://img.shields.io/badge/-VBA-black?style=for-the-badge&logo=vba&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
+<img src="https://www.cadtutor.net/forum/uploads/monthly_2009_07/LISPicon.png.1d10b9fc239356fe3d6b327d0c7bcf5c.png" style="margin:5px" /><img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /><img src="http://img.shields.io/badge/-VBA-black?style=for-the-badge&logo=vba&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
 
 ### APIs:
 
