@@ -49,7 +49,7 @@ I'm a building information specialist who is interested in projects that will he
 
 ### Tools:
 
-<img src="http://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="http://img.shields.io/badge/-gitgub-black?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-unity-black?style=for-the-badge&logo=unity" style="margin:5px" /><img src="http://img.shields.io/badge/-godot-black?style=for-the-badge&logo=godot-engine" style="margin:25x" /><img src="http://img.shields.io/badge/-maven-black?style=for-the-badge&logo=apache-maven&logoColor=red" style="margin:5px" />
+<img src="http://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="http://img.shields.io/badge/-gitgub-black?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-unity-black?style=for-the-badge&logo=unity" style="margin:5px" />
 
 <code><img src="https://github.com/github/explore/blob/master/topics/gamemaker/gamemaker.png?raw=true" height="32" style="margin:5px" /></code>
 
