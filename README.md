@@ -63,8 +63,8 @@ I'm a building information specialist who is interested in projects that will he
 
 I'd like to get in touch with the following topics:
 
-- Game Development in C++, C# or Java
-- Graphics Programming in C++, C or Java
+-Building Information Modeling (BIM)
+-Reality Capture
 
 ## - 📫 How to reach me
 
