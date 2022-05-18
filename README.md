@@ -45,7 +45,7 @@ I'm a building information specialist who is interested in projects that will he
 
 ### APIs:
 
-<img src="https://www.vhv.rs/dpng/d/483-4839500_zillow-group-logo-png-zillow-group-logo-transparent.png style=for-the-badge&logo=opengl" style="margin:5px" /><img src="http://img.shields.io/badge/-something else-black?style=for-the-badge&logo=qt" style="margin:5px" />
+<img width="10%" src=https://www.vhv.rs/dpng/d/483-4839500_zillow-group-logo-png-zillow-group-logo-transparent.png style="margin:5px" />
 
 ### Tools:
 
