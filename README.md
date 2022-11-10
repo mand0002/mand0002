@@ -27,7 +27,7 @@ I'm a building information specialist who is interested in projects that will he
 	</td>
     <td>
 		<a href="https://github.com/mand0002/hashDemoBlockies">
-			<img src="https://github.com/mand0002/hashDemoBlockies/blob/master/blockies.png" />
+			<img src="https://github.com/mand0002/PacMen/blob/main/pacman.PNG" />
 		</a>
 	</td>
     <td>
