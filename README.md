@@ -22,7 +22,7 @@ I'm a building information specialist who is interested in projects that will he
   <tr>
     <td>
 		<a href="https://github.com/mand0002/MovingEyes">
-			<img src="https://github.com/mand0002/MovingEyes/blob/main/oneeye.png" />
+			<img src="https://github.com/mand0002/MovingEyes/blob/main/eye.PNG" />
 		</a>
 	</td>
     <td>
